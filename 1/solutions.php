@@ -1,6 +1,6 @@
 <?php
 
-// little function to log to terminal
+// little function to log to terminal optionally based on a count
 function info(string $message, int $count = null): void
 {
     if ($count === null) {
