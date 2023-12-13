@@ -50,6 +50,7 @@ function info(string $message, int $info_count = 0, bool $log_to_file = false): 
  *
  * Take a seat in the large pile of colorful cards. How many points are they worth in total?
  */
+
 /*
 $sum = 0;
 $file_name = "puzzle-input.txt";
@@ -65,9 +66,12 @@ if ($file) {
         $winners_and_my_numbers = explode('|', $clean_card_halves);
         $winning_numbers = explode(' ', trim($winners_and_my_numbers[0]));
         $my_numbers = explode(' ', trim($winners_and_my_numbers[1]));
-        $matching_numbers = array_intersect(array_unique($winning_numbers), array_unique($my_numbers));
+        // find and return all matching elements from $winning_numbers that exist in $my_numbers
+        $matching_numbers = array_intersect($winning_numbers, $my_numbers);
         $value = 0;
         if (count($matching_numbers) > 1) {
+            // need to remove one element so the doubling works properly
+            // array_reduce takes a value to start with, so we set that to 1 and just remove one element from the array
             array_shift($matching_numbers);
             $value = array_reduce($matching_numbers, function ($carry, $element) use ($row_count) {
                 return $carry * 2;
@@ -81,14 +85,13 @@ if ($file) {
 } else {
     echo 'Could not open file ' . $file_name . PHP_EOL;
 }
-
 // print final answer and save to clipboard to paste into answer input on the webpage
 exec('echo "' . $sum . '" | pbcopy');
 echo 'Answer: ' . $sum . PHP_EOL;
 */
 
 /*
- * --- Part Two ---
+ * --- Part Two (Validated) ---
  * Just as you're about to report your findings to the Elf, one of you realizes that the rules have actually been
  * printed on the back of every card this whole time.
  *
@@ -99,7 +102,7 @@ echo 'Answer: ' . $sum . PHP_EOL;
  * 10 were to have 5 matching numbers, you would win one copy each of cards 11, 12, 13, 14, and 15.
  *
  * Copies of scratchcards are scored like normal scratchcards and have the same card number as the card they copied. So,
- * if you win a copy of card 10 and it has 5 matching numbers, it would then win a copy of the same cards that the
+ * if you win a copy of card 10, and it has 5 matching numbers, it would then win a copy of the same cards that the
  * original card 10 won: cards 11, 12, 13, 14, and 15. This process repeats until none of the copies cause you to win
  * any more cards. (Cards will never make you copy a card past the end of the table.)
  *
@@ -127,13 +130,21 @@ echo 'Answer: ' . $sum . PHP_EOL;
  *
  * Process all the original and copied scratchcards until no more scratchcards are won. Including the original set of
  * scratchcards, how many total scratchcards do you end up with?
+ *
+ * $copies_array = [
+ *     1 => 0,
+ *     2 => 1,
+ *     3 => 3,
+ *     4 => 7,
+ *     5 => 13,
+ * ];
  */
 
-$sum = 0;
-$file_name = "puzzle-input-tester.txt";
+$file_name = "puzzle-input.txt";
 $file = fopen($file_name, "r");
+$copies_array = [];
+$row_count = 0;
 if ($file) {
-    $row_count = 0;
     while ($line = fgets($file)) {
         $row_count++;
 
@@ -143,15 +154,39 @@ if ($file) {
         $winners_and_my_numbers = explode('|', $clean_card_halves);
         $winning_numbers = explode(' ', trim($winners_and_my_numbers[0]));
         $my_numbers = explode(' ', trim($winners_and_my_numbers[1]));
-        $matching_numbers = array_intersect(array_unique($winning_numbers), array_unique($my_numbers));
+        // find and return all matching elements from $winning_numbers that exist in $my_numbers
+        $matching_numbers = array_intersect($winning_numbers, $my_numbers);
 
-        // foreach matching number walk down the $copies array and add any additional copies as necessary
+        if (!isset($copies_array[$row_count])) {
+            $copies_array[$row_count] = 0;
+        }
+
+        // foreach copy plus the original, handle copying the cards
+        $copies_plus_original_count = $copies_array[$row_count] + 1;
+        for ($c = 1; $c <= $copies_plus_original_count; $c++) {
+            // foreach matching number walk down the $copies array and add additional copies
+            $matches_count = count($matching_numbers);
+            for ($i = 1; $i <= $matches_count; $i++) {
+                $copied_line = $row_count + $i;
+                if (isset($copies_array[$copied_line])) {
+                    $copies_array[$copied_line]++;
+                } else {
+                    $copies_array[$copied_line] = 1;
+                }
+            }
+        }
     }
 } else {
     echo 'Could not open file ' . $file_name . PHP_EOL;
 }
 
 // add up all the copies and the row count to get the total scratchcards
+$total_copies = 0;
+foreach ($copies_array as $row_copies) {
+    $total_copies += $row_copies;
+}
+
+$sum = $row_count + $total_copies;
 
 // print final answer and save to clipboard to paste into answer input on the webpage
 exec('echo "' . $sum . '" | pbcopy');
