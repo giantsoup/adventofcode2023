@@ -1,0 +1,1879 @@
+Hit |*| at 13
+Saving number as 702 at positions [10, 11, 12]
+
+Found symbol |*| at 13. Saving...
+
+Hit |.| at 21
+Saving number as 772 at positions [18, 19, 20]
+
+Hit |.| at 36
+Saving number as 378 at positions [33, 34, 35]
+
+Hit |.| at 41
+Saving number as 569 at positions [38, 39, 40]
+
+Found symbol |&| at 50. Saving...
+
+Hit |.| at 54
+Saving number as 49 at positions [52, 53]
+
+Hit |.| at 59
+Saving number as 606 at positions [56, 57, 58]
+
+Hit |*| at 64
+Saving number as 14 at positions [62, 63]
+
+Found symbol |*| at 64. Saving...
+
+Found symbol |$| at 79. Saving...
+
+Hit |*| at 84
+Saving number as 453 at positions [81, 82, 83]
+
+Found symbol |*| at 84. Saving...
+
+Hit |.| at 97
+Saving number as 307 at positions [94, 95, 96]
+
+Found symbol |*| at 101. Saving...
+
+Found symbol |$| at 108. Saving...
+
+Found symbol |-| at 114. Saving...
+
+Hit |.| at 135
+Saving number as 995 at positions [132, 133, 134]
+
+symbol * in row 2
+position 13 in row 2
+$gear_ratio_numbers: 702
+symbol & in row 2
+position 50 in row 2
+symbol * in row 2
+position 64 in row 2
+$gear_ratio_numbers: 785, 14
+symbol $ in row 2
+position 79 in row 2
+symbol * in row 2
+position 84 in row 2
+$gear_ratio_numbers: 284, 453
+symbol * in row 2
+position 101 in row 2
+$gear_ratio_numbers: 503, 516
+symbol $ in row 2
+position 108 in row 2
+symbol - in row 2
+position 114 in row 2
+symbol + in row 3
+position 37 in row 3
+symbol + in row 3
+position 47 in row 3
+symbol & in row 3
+position 52 in row 3
+symbol % in row 3
+position 93 in row 3
+symbol * in row 3
+position 134 in row 3
+$gear_ratio_numbers: 995, 430
+symbol * in row 4
+position 22 in row 4
+$gear_ratio_numbers: 458, 39
+symbol & in row 4
+position 28 in row 4
+symbol & in row 4
+position 54 in row 4
+symbol $ in row 4
+position 67 in row 4
+symbol / in row 4
+position 74 in row 4
+symbol # in row 4
+position 95 in row 4
+symbol = in row 4
+position 110 in row 4
+symbol * in row 4
+position 121 in row 4
+$gear_ratio_numbers: 287
+symbol * in row 5
+position 12 in row 5
+$gear_ratio_numbers: 822, 726
+symbol * in row 5
+position 16 in row 5
+$gear_ratio_numbers: 174, 511
+symbol * in row 5
+position 39 in row 5
+$gear_ratio_numbers: 711, 320
+symbol $ in row 5
+position 91 in row 5
+symbol * in row 5
+position 118 in row 5
+$gear_ratio_numbers: 634, 731
+symbol * in row 6
+position 33 in row 6
+$gear_ratio_numbers: 223, 933
+symbol * in row 6
+position 84 in row 6
+$gear_ratio_numbers: 522
+symbol % in row 6
+position 101 in row 6
+symbol % in row 6
+position 130 in row 6
+symbol $ in row 6
+position 135 in row 6
+symbol * in row 7
+position 52 in row 7
+$gear_ratio_numbers: 476, 713
+symbol @ in row 7
+position 54 in row 7
+symbol * in row 7
+position 66 in row 7
+$gear_ratio_numbers: 424, 618
+symbol $ in row 7
+position 113 in row 7
+symbol # in row 8
+position 8 in row 8
+symbol - in row 8
+position 22 in row 8
+symbol - in row 8
+position 75 in row 8
+symbol = in row 8
+position 117 in row 8
+symbol * in row 8
+position 120 in row 8
+$gear_ratio_numbers: 338, 363
+symbol * in row 8
+position 128 in row 8
+$gear_ratio_numbers: 205, 960
+symbol & in row 8
+position 132 in row 8
+symbol * in row 9
+position 42 in row 9
+$gear_ratio_numbers: 676, 172
+symbol # in row 9
+position 53 in row 9
+symbol * in row 9
+position 60 in row 9
+$gear_ratio_numbers: 763
+symbol & in row 9
+position 98 in row 9
+symbol * in row 9
+position 111 in row 9
+$gear_ratio_numbers: 996, 911
+symbol + in row 10
+position 5 in row 10
+symbol * in row 10
+position 19 in row 10
+$gear_ratio_numbers: 996, 90
+symbol $ in row 10
+position 40 in row 10
+symbol * in row 10
+position 65 in row 10
+$gear_ratio_numbers: 566, 890
+symbol * in row 10
+position 87 in row 10
+$gear_ratio_numbers: 802, 93
+symbol * in row 10
+position 101 in row 10
+$gear_ratio_numbers: 214, 209
+symbol # in row 11
+position 14 in row 11
+symbol + in row 11
+position 23 in row 11
+symbol = in row 11
+position 80 in row 11
+symbol & in row 11
+position 111 in row 11
+symbol $ in row 11
+position 136 in row 11
+symbol * in row 12
+position 9 in row 12
+$gear_ratio_numbers: 527, 383
+symbol % in row 12
+position 99 in row 12
+symbol * in row 12
+position 122 in row 12
+$gear_ratio_numbers: 928, 671
+symbol $ in row 12
+position 131 in row 12
+symbol @ in row 13
+position 35 in row 13
+symbol = in row 13
+position 38 in row 13
+symbol # in row 13
+position 43 in row 13
+symbol % in row 13
+position 57 in row 13
+symbol % in row 13
+position 118 in row 13
+symbol * in row 14
+position 19 in row 14
+$gear_ratio_numbers: 741, 960
+symbol + in row 14
+position 51 in row 14
+symbol * in row 14
+position 53 in row 14
+$gear_ratio_numbers: 18, 464
+symbol * in row 14
+position 71 in row 14
+$gear_ratio_numbers: 624, 846
+symbol * in row 14
+position 83 in row 14
+$gear_ratio_numbers: 64, 266
+symbol * in row 14
+position 103 in row 14
+$gear_ratio_numbers: 701, 458
+symbol * in row 14
+position 125 in row 14
+$gear_ratio_numbers: 721
+symbol * in row 15
+position 11 in row 15
+$gear_ratio_numbers: 502, 80
+symbol + in row 15
+position 106 in row 15
+symbol & in row 15
+position 112 in row 15
+symbol * in row 16
+position 43 in row 16
+$gear_ratio_numbers: 25, 742
+symbol * in row 16
+position 67 in row 16
+$gear_ratio_numbers: 831, 816
+symbol / in row 16
+position 80 in row 16
+symbol @ in row 16
+position 99 in row 16
+symbol * in row 16
+position 132 in row 16
+$gear_ratio_numbers: 377, 266
+symbol $ in row 16
+position 137 in row 16
+symbol + in row 17
+position 30 in row 17
+symbol * in row 17
+position 59 in row 17
+$gear_ratio_numbers: 236, 631
+symbol & in row 17
+position 71 in row 17
+symbol + in row 17
+position 78 in row 17
+symbol * in row 17
+position 119 in row 17
+$gear_ratio_numbers: 938, 154
+symbol * in row 17
+position 124 in row 17
+$gear_ratio_numbers: 973, 341
+symbol * in row 18
+position 7 in row 18
+$gear_ratio_numbers: 738, 231
+symbol * in row 18
+position 22 in row 18
+$gear_ratio_numbers: 428, 681
+symbol * in row 18
+position 41 in row 18
+$gear_ratio_numbers: 311, 775
+symbol @ in row 18
+position 105 in row 18
+symbol @ in row 18
+position 133 in row 18
+symbol # in row 19
+position 12 in row 19
+symbol * in row 19
+position 55 in row 19
+$gear_ratio_numbers: 48, 19
+symbol = in row 19
+position 61 in row 19
+symbol * in row 19
+position 102 in row 19
+$gear_ratio_numbers: 258, 230
+symbol = in row 19
+position 137 in row 19
+symbol # in row 20
+position 9 in row 20
+symbol & in row 20
+position 35 in row 20
+symbol * in row 20
+position 67 in row 20
+$gear_ratio_numbers: 257, 459
+symbol * in row 21
+position 29 in row 21
+$gear_ratio_numbers: 807, 900
+symbol = in row 21
+position 48 in row 21
+symbol * in row 21
+position 74 in row 21
+$gear_ratio_numbers: 906, 250
+symbol * in row 21
+position 78 in row 21
+$gear_ratio_numbers: 185, 503
+symbol & in row 21
+position 90 in row 21
+symbol * in row 21
+position 95 in row 21
+$gear_ratio_numbers: 778, 808
+symbol = in row 21
+position 112 in row 21
+symbol + in row 21
+position 126 in row 21
+symbol = in row 22
+position 6 in row 22
+symbol # in row 22
+position 19 in row 22
+symbol + in row 22
+position 38 in row 22
+symbol % in row 22
+position 66 in row 22
+symbol * in row 22
+position 69 in row 22
+$gear_ratio_numbers: 251
+symbol / in row 22
+position 104 in row 22
+symbol @ in row 22
+position 109 in row 22
+symbol & in row 22
+position 123 in row 22
+symbol # in row 22
+position 132 in row 22
+symbol / in row 23
+position 31 in row 23
+symbol * in row 23
+position 50 in row 23
+$gear_ratio_numbers: 702, 714
+symbol @ in row 23
+position 54 in row 23
+symbol $ in row 23
+position 82 in row 23
+symbol * in row 23
+position 97 in row 23
+$gear_ratio_numbers: 941
+symbol * in row 23
+position 137 in row 23
+$gear_ratio_numbers: 710, 733
+symbol * in row 24
+position 16 in row 24
+$gear_ratio_numbers: 685, 470
+symbol * in row 24
+position 26 in row 24
+$gear_ratio_numbers: 171, 508
+symbol * in row 24
+position 117 in row 24
+$gear_ratio_numbers: 658, 617
+symbol = in row 24
+position 122 in row 24
+symbol $ in row 25
+position 56 in row 25
+symbol % in row 25
+position 111 in row 25
+symbol - in row 25
+position 132 in row 25
+symbol @ in row 25
+position 135 in row 25
+symbol / in row 26
+position 23 in row 26
+symbol - in row 26
+position 33 in row 26
+symbol * in row 26
+position 40 in row 26
+$gear_ratio_numbers: 170, 467
+symbol * in row 26
+position 69 in row 26
+$gear_ratio_numbers: 874, 989
+symbol - in row 26
+position 77 in row 26
+symbol # in row 26
+position 87 in row 26
+symbol * in row 26
+position 91 in row 26
+$gear_ratio_numbers: 208
+symbol = in row 26
+position 100 in row 26
+symbol / in row 26
+position 114 in row 26
+symbol / in row 27
+position 7 in row 27
+symbol @ in row 27
+position 15 in row 27
+symbol + in row 27
+position 21 in row 27
+symbol * in row 27
+position 49 in row 27
+$gear_ratio_numbers: 210, 801
+symbol * in row 27
+position 97 in row 27
+$gear_ratio_numbers: 129, 594
+symbol - in row 27
+position 111 in row 27
+symbol * in row 27
+position 128 in row 27
+$gear_ratio_numbers: 931, 618
+symbol # in row 28
+position 70 in row 28
+symbol * in row 28
+position 81 in row 28
+$gear_ratio_numbers: 979, 629
+symbol * in row 28
+position 121 in row 28
+$gear_ratio_numbers: 276, 136
+symbol + in row 29
+position 5 in row 29
+symbol * in row 29
+position 102 in row 29
+$gear_ratio_numbers: 493, 885
+symbol * in row 29
+position 137 in row 29
+$gear_ratio_numbers: 84
+symbol $ in row 30
+position 17 in row 30
+symbol = in row 30
+position 63 in row 30
+symbol @ in row 30
+position 90 in row 30
+symbol * in row 30
+position 96 in row 30
+$gear_ratio_numbers: 217, 648
+symbol # in row 30
+position 133 in row 30
+symbol * in row 31
+position 5 in row 31
+$gear_ratio_numbers: 377, 1
+symbol * in row 31
+position 10 in row 31
+$gear_ratio_numbers: 721, 81
+symbol * in row 31
+position 26 in row 31
+$gear_ratio_numbers: 911, 533
+symbol & in row 31
+position 34 in row 31
+symbol + in row 31
+position 52 in row 31
+symbol * in row 31
+position 56 in row 31
+$gear_ratio_numbers: 234, 861
+symbol @ in row 31
+position 66 in row 31
+symbol * in row 31
+position 73 in row 31
+$gear_ratio_numbers: 709, 331
+symbol * in row 31
+position 86 in row 31
+$gear_ratio_numbers: 614, 876
+symbol & in row 31
+position 108 in row 31
+symbol * in row 31
+position 112 in row 31
+$gear_ratio_numbers: 742, 289
+symbol & in row 31
+position 118 in row 31
+symbol * in row 32
+position 39 in row 32
+$gear_ratio_numbers: 937, 431
+symbol @ in row 32
+position 123 in row 32
+symbol * in row 32
+position 129 in row 32
+$gear_ratio_numbers: 493, 400
+symbol * in row 32
+position 137 in row 32
+$gear_ratio_numbers: 39
+symbol - in row 33
+position 21 in row 33
+symbol * in row 33
+position 43 in row 33
+$gear_ratio_numbers: 399, 925
+symbol + in row 33
+position 46 in row 33
+symbol $ in row 33
+position 95 in row 33
+symbol * in row 33
+position 105 in row 33
+$gear_ratio_numbers: 275, 876
+symbol + in row 34
+position 10 in row 34
+symbol * in row 34
+position 27 in row 34
+$gear_ratio_numbers: 594, 177
+symbol * in row 34
+position 32 in row 34
+$gear_ratio_numbers: 888, 708
+symbol $ in row 34
+position 55 in row 34
+symbol * in row 34
+position 63 in row 34
+$gear_ratio_numbers: 79, 294
+symbol + in row 34
+position 117 in row 34
+symbol # in row 34
+position 122 in row 34
+symbol * in row 35
+position 75 in row 35
+$gear_ratio_numbers: 599, 847
+symbol * in row 35
+position 107 in row 35
+$gear_ratio_numbers: 288, 793
+symbol * in row 36
+position 20 in row 36
+$gear_ratio_numbers: 855
+symbol & in row 36
+position 24 in row 36
+symbol & in row 36
+position 91 in row 36
+symbol / in row 36
+position 97 in row 36
+symbol * in row 36
+position 113 in row 36
+$gear_ratio_numbers: 867, 818
+symbol # in row 36
+position 116 in row 36
+symbol * in row 36
+position 127 in row 36
+$gear_ratio_numbers: 479, 769
+symbol + in row 36
+position 135 in row 36
+symbol + in row 37
+position 10 in row 37
+symbol * in row 37
+position 14 in row 37
+$gear_ratio_numbers: 617, 88
+symbol * in row 37
+position 41 in row 37
+$gear_ratio_numbers: 605, 453
+symbol @ in row 37
+position 53 in row 37
+symbol * in row 37
+position 60 in row 37
+$gear_ratio_numbers: 783, 91
+symbol * in row 37
+position 79 in row 37
+$gear_ratio_numbers: 619
+symbol * in row 38
+position 4 in row 38
+$gear_ratio_numbers: 672, 500
+symbol * in row 38
+position 64 in row 38
+$gear_ratio_numbers: 208, 228
+symbol * in row 38
+position 70 in row 38
+$gear_ratio_numbers: 949, 508
+symbol + in row 38
+position 106 in row 38
+symbol * in row 38
+position 120 in row 38
+$gear_ratio_numbers: 56, 845
+symbol * in row 38
+position 128 in row 38
+$gear_ratio_numbers: 683, 365
+symbol = in row 39
+position 13 in row 39
+symbol * in row 39
+position 33 in row 39
+$gear_ratio_numbers: 569, 214
+symbol * in row 39
+position 51 in row 39
+$gear_ratio_numbers: 205, 912
+symbol * in row 39
+position 57 in row 39
+$gear_ratio_numbers: 975, 24
+symbol - in row 39
+position 60 in row 39
+symbol & in row 39
+position 75 in row 39
+symbol * in row 39
+position 136 in row 39
+$gear_ratio_numbers: 462
+symbol = in row 40
+position 38 in row 40
+symbol % in row 40
+position 81 in row 40
+symbol - in row 41
+position 9 in row 41
+symbol * in row 41
+position 20 in row 41
+$gear_ratio_numbers: 841, 334
+symbol & in row 41
+position 45 in row 41
+symbol * in row 41
+position 91 in row 41
+$gear_ratio_numbers: 257
+symbol * in row 41
+position 104 in row 41
+$gear_ratio_numbers: 152, 246
+symbol * in row 41
+position 120 in row 41
+$gear_ratio_numbers: 295
+symbol * in row 42
+position 25 in row 42
+$gear_ratio_numbers: 447, 92
+symbol * in row 42
+position 50 in row 42
+$gear_ratio_numbers: 167, 220
+symbol * in row 42
+position 76 in row 42
+$gear_ratio_numbers: 287, 930
+symbol / in row 42
+position 133 in row 42
+symbol * in row 43
+position 101 in row 43
+$gear_ratio_numbers: 554, 139
+symbol * in row 43
+position 123 in row 43
+$gear_ratio_numbers: 396, 578
+symbol & in row 44
+position 8 in row 44
+symbol * in row 44
+position 90 in row 44
+$gear_ratio_numbers: 414, 502
+symbol / in row 44
+position 97 in row 44
+symbol & in row 44
+position 109 in row 44
+symbol * in row 44
+position 116 in row 44
+$gear_ratio_numbers: 366
+symbol * in row 44
+position 130 in row 44
+$gear_ratio_numbers: 117, 677
+symbol * in row 45
+position 6 in row 45
+$gear_ratio_numbers: 958, 350
+symbol * in row 45
+position 22 in row 45
+$gear_ratio_numbers: 548, 44
+symbol * in row 45
+position 33 in row 45
+$gear_ratio_numbers: 21, 449
+symbol * in row 45
+position 71 in row 45
+$gear_ratio_numbers: 820, 404
+symbol # in row 45
+position 112 in row 45
+symbol * in row 46
+position 15 in row 46
+$gear_ratio_numbers: 204, 477
+symbol - in row 46
+position 38 in row 46
+symbol * in row 46
+position 49 in row 46
+$gear_ratio_numbers: 226, 815
+symbol - in row 46
+position 61 in row 46
+symbol * in row 46
+position 77 in row 46
+$gear_ratio_numbers: 555, 815
+symbol * in row 46
+position 84 in row 46
+$gear_ratio_numbers: 992
+symbol * in row 47
+position 28 in row 47
+$gear_ratio_numbers: 694, 781
+symbol * in row 47
+position 65 in row 47
+$gear_ratio_numbers: 786, 646
+symbol & in row 47
+position 119 in row 47
+symbol - in row 48
+position 72 in row 48
+symbol * in row 48
+position 98 in row 48
+$gear_ratio_numbers: 521, 808
+symbol # in row 48
+position 135 in row 48
+symbol * in row 49
+position 9 in row 49
+$gear_ratio_numbers: 828, 810
+symbol * in row 49
+position 20 in row 49
+$gear_ratio_numbers: 360
+symbol * in row 49
+position 31 in row 49
+$gear_ratio_numbers: 464, 638
+symbol * in row 49
+position 55 in row 49
+$gear_ratio_numbers: 276, 812
+symbol & in row 49
+position 77 in row 49
+symbol * in row 49
+position 105 in row 49
+$gear_ratio_numbers: 955, 347
+symbol * in row 49
+position 123 in row 49
+$gear_ratio_numbers: 220
+symbol + in row 49
+position 128 in row 49
+symbol * in row 50
+position 43 in row 50
+$gear_ratio_numbers: 15
+symbol * in row 50
+position 48 in row 50
+$gear_ratio_numbers: 193, 751
+symbol + in row 50
+position 89 in row 50
+symbol * in row 50
+position 114 in row 50
+$gear_ratio_numbers: 963, 39
+symbol * in row 51
+position 8 in row 51
+$gear_ratio_numbers: 714, 265
+symbol * in row 51
+position 63 in row 51
+$gear_ratio_numbers: 573, 80
+symbol = in row 51
+position 71 in row 51
+symbol & in row 51
+position 109 in row 51
+symbol $ in row 52
+position 49 in row 52
+symbol = in row 52
+position 83 in row 52
+symbol * in row 52
+position 117 in row 52
+$gear_ratio_numbers: 567, 978
+symbol * in row 52
+position 123 in row 52
+$gear_ratio_numbers: 334
+symbol = in row 53
+position 19 in row 53
+symbol % in row 53
+position 36 in row 53
+symbol @ in row 53
+position 72 in row 53
+symbol * in row 53
+position 137 in row 53
+$gear_ratio_numbers: 948, 813
+symbol @ in row 54
+position 11 in row 54
+symbol = in row 54
+position 23 in row 54
+symbol % in row 54
+position 60 in row 54
+symbol / in row 54
+position 67 in row 54
+symbol - in row 54
+position 74 in row 54
+symbol = in row 54
+position 78 in row 54
+symbol * in row 54
+position 87 in row 54
+$gear_ratio_numbers: 797, 571
+symbol * in row 54
+position 97 in row 54
+$gear_ratio_numbers: 273, 486
+symbol * in row 54
+position 131 in row 54
+$gear_ratio_numbers: 382, 109
+symbol * in row 55
+position 53 in row 55
+$gear_ratio_numbers: 130, 691
+symbol * in row 55
+position 63 in row 55
+$gear_ratio_numbers: 250, 402
+symbol * in row 56
+position 26 in row 56
+$gear_ratio_numbers: 140, 672
+symbol * in row 56
+position 42 in row 56
+$gear_ratio_numbers: 435, 492
+symbol = in row 56
+position 67 in row 56
+symbol @ in row 56
+position 95 in row 56
+symbol / in row 56
+position 118 in row 56
+symbol $ in row 57
+position 47 in row 57
+symbol / in row 57
+position 49 in row 57
+symbol * in row 57
+position 124 in row 57
+$gear_ratio_numbers: 162, 41
+symbol * in row 58
+position 4 in row 58
+$gear_ratio_numbers: 285, 52
+symbol * in row 58
+position 31 in row 58
+$gear_ratio_numbers: 552, 810
+symbol $ in row 58
+position 65 in row 58
+symbol * in row 58
+position 71 in row 58
+$gear_ratio_numbers: 620, 57
+symbol * in row 58
+position 75 in row 58
+$gear_ratio_numbers: 391
+symbol & in row 58
+position 112 in row 58
+symbol @ in row 59
+position 16 in row 59
+symbol * in row 59
+position 101 in row 59
+$gear_ratio_numbers: 355, 481
+symbol * in row 59
+position 114 in row 59
+$gear_ratio_numbers: 210, 905
+symbol * in row 59
+position 120 in row 59
+$gear_ratio_numbers: 99, 296
+symbol = in row 59
+position 132 in row 59
+symbol * in row 60
+position 11 in row 60
+$gear_ratio_numbers: 12, 298
+symbol * in row 60
+position 27 in row 60
+$gear_ratio_numbers: 808, 172
+symbol @ in row 60
+position 37 in row 60
+symbol * in row 60
+position 60 in row 60
+$gear_ratio_numbers: 663
+symbol * in row 60
+position 88 in row 60
+$gear_ratio_numbers: 476, 679
+symbol $ in row 61
+position 48 in row 61
+symbol # in row 61
+position 70 in row 61
+symbol - in row 61
+position 100 in row 61
+symbol * in row 61
+position 109 in row 61
+$gear_ratio_numbers: 104, 478
+symbol # in row 61
+position 125 in row 61
+symbol * in row 61
+position 133 in row 61
+$gear_ratio_numbers: 889, 498
+symbol / in row 62
+position 4 in row 62
+symbol * in row 62
+position 18 in row 62
+$gear_ratio_numbers: 119, 341
+symbol / in row 62
+position 29 in row 62
+symbol * in row 62
+position 52 in row 62
+$gear_ratio_numbers: 637, 437
+symbol * in row 62
+position 80 in row 62
+$gear_ratio_numbers: 342, 718
+symbol * in row 62
+position 94 in row 62
+$gear_ratio_numbers: 111, 136
+symbol # in row 63
+position 114 in row 63
+symbol * in row 63
+position 121 in row 63
+$gear_ratio_numbers: 503, 535
+symbol * in row 64
+position 24 in row 64
+$gear_ratio_numbers: 36, 639
+symbol * in row 64
+position 41 in row 64
+$gear_ratio_numbers: 386, 798
+symbol - in row 64
+position 73 in row 64
+symbol * in row 64
+position 85 in row 64
+$gear_ratio_numbers: 662, 247
+symbol % in row 64
+position 99 in row 64
+symbol $ in row 65
+position 7 in row 65
+symbol * in row 65
+position 37 in row 65
+$gear_ratio_numbers: 936, 1
+symbol / in row 65
+position 46 in row 65
+symbol % in row 65
+position 51 in row 65
+symbol - in row 65
+position 109 in row 65
+symbol @ in row 65
+position 122 in row 65
+symbol * in row 66
+position 67 in row 66
+$gear_ratio_numbers: 137, 833
+symbol * in row 66
+position 79 in row 66
+$gear_ratio_numbers: 313, 565
+symbol @ in row 66
+position 127 in row 66
+symbol @ in row 67
+position 12 in row 67
+symbol * in row 67
+position 15 in row 67
+$gear_ratio_numbers: 605
+symbol $ in row 67
+position 18 in row 67
+symbol # in row 67
+position 59 in row 67
+symbol / in row 67
+position 61 in row 67
+symbol + in row 67
+position 114 in row 67
+symbol * in row 67
+position 131 in row 67
+$gear_ratio_numbers: 228, 84
+symbol * in row 68
+position 25 in row 68
+$gear_ratio_numbers: 794, 451
+symbol * in row 68
+position 51 in row 68
+$gear_ratio_numbers: 74, 684
+symbol = in row 68
+position 86 in row 68
+symbol @ in row 68
+position 133 in row 68
+symbol - in row 69
+position 18 in row 69
+symbol @ in row 69
+position 37 in row 69
+symbol * in row 69
+position 116 in row 69
+$gear_ratio_numbers: 426, 917
+symbol * in row 69
+position 126 in row 69
+$gear_ratio_numbers: 916, 32
+symbol * in row 70
+position 6 in row 70
+$gear_ratio_numbers: 68, 363
+symbol * in row 70
+position 47 in row 70
+$gear_ratio_numbers: 468, 418
+symbol & in row 70
+position 57 in row 70
+symbol * in row 70
+position 64 in row 70
+$gear_ratio_numbers: 956, 308
+symbol % in row 70
+position 69 in row 70
+symbol & in row 70
+position 78 in row 70
+symbol + in row 70
+position 99 in row 70
+symbol / in row 70
+position 106 in row 70
+symbol # in row 70
+position 130 in row 70
+symbol * in row 71
+position 28 in row 71
+$gear_ratio_numbers: 509, 412
+symbol * in row 71
+position 84 in row 71
+$gear_ratio_numbers: 36, 931
+symbol * in row 72
+position 40 in row 72
+$gear_ratio_numbers: 441, 628
+symbol % in row 72
+position 51 in row 72
+symbol * in row 72
+position 59 in row 72
+$gear_ratio_numbers: 920, 585
+symbol * in row 72
+position 70 in row 72
+$gear_ratio_numbers: 526, 908
+symbol & in row 72
+position 90 in row 72
+symbol * in row 72
+position 105 in row 72
+$gear_ratio_numbers: 139, 336
+symbol - in row 72
+position 110 in row 72
+symbol # in row 72
+position 114 in row 72
+symbol + in row 73
+position 20 in row 73
+symbol * in row 73
+position 93 in row 73
+$gear_ratio_numbers: 807
+symbol * in row 74
+position 16 in row 74
+$gear_ratio_numbers: 924, 36
+symbol @ in row 74
+position 29 in row 74
+symbol # in row 74
+position 64 in row 74
+symbol * in row 74
+position 76 in row 74
+$gear_ratio_numbers: 766, 201
+symbol = in row 74
+position 83 in row 74
+symbol * in row 74
+position 132 in row 74
+$gear_ratio_numbers: 191
+symbol & in row 75
+position 13 in row 75
+symbol * in row 75
+position 34 in row 75
+$gear_ratio_numbers: 35, 949
+symbol & in row 75
+position 62 in row 75
+symbol $ in row 75
+position 98 in row 75
+symbol = in row 75
+position 121 in row 75
+symbol * in row 75
+position 128 in row 75
+$gear_ratio_numbers: 71, 440
+symbol % in row 75
+position 136 in row 75
+symbol * in row 76
+position 21 in row 76
+$gear_ratio_numbers: 216, 967
+symbol # in row 76
+position 59 in row 76
+symbol * in row 76
+position 95 in row 76
+$gear_ratio_numbers: 159, 647
+symbol = in row 76
+position 108 in row 76
+symbol # in row 77
+position 25 in row 77
+symbol * in row 77
+position 39 in row 77
+$gear_ratio_numbers: 999, 6
+symbol % in row 77
+position 43 in row 77
+symbol - in row 77
+position 53 in row 77
+symbol & in row 77
+position 75 in row 77
+symbol # in row 77
+position 87 in row 77
+symbol / in row 77
+position 133 in row 77
+symbol * in row 78
+position 55 in row 78
+$gear_ratio_numbers: 351, 517
+symbol * in row 78
+position 80 in row 78
+$gear_ratio_numbers: 189, 626
+symbol % in row 78
+position 119 in row 78
+symbol # in row 78
+position 137 in row 78
+symbol - in row 79
+position 69 in row 79
+symbol / in row 79
+position 104 in row 79
+symbol & in row 79
+position 113 in row 79
+symbol - in row 79
+position 134 in row 79
+symbol & in row 80
+position 12 in row 80
+symbol & in row 80
+position 27 in row 80
+symbol * in row 80
+position 33 in row 80
+$gear_ratio_numbers: 57, 999
+symbol & in row 80
+position 37 in row 80
+symbol * in row 80
+position 43 in row 80
+$gear_ratio_numbers: 841, 885
+symbol * in row 80
+position 96 in row 80
+$gear_ratio_numbers: 343, 336
+symbol * in row 80
+position 124 in row 80
+$gear_ratio_numbers: 360, 321
+symbol # in row 81
+position 14 in row 81
+symbol * in row 81
+position 73 in row 81
+$gear_ratio_numbers: 9, 250
+symbol $ in row 81
+position 82 in row 81
+symbol * in row 81
+position 90 in row 81
+$gear_ratio_numbers: 93, 402
+symbol + in row 81
+position 130 in row 81
+symbol * in row 82
+position 7 in row 82
+$gear_ratio_numbers: 469, 170
+symbol * in row 82
+position 60 in row 82
+$gear_ratio_numbers: 899, 128
+symbol * in row 82
+position 102 in row 82
+$gear_ratio_numbers: 247, 161
+symbol @ in row 82
+position 121 in row 82
+symbol % in row 83
+position 16 in row 83
+symbol $ in row 83
+position 21 in row 83
+symbol * in row 83
+position 31 in row 83
+$gear_ratio_numbers: 901
+symbol * in row 83
+position 92 in row 83
+$gear_ratio_numbers: 501, 513
+symbol * in row 83
+position 112 in row 83
+$gear_ratio_numbers: 77, 271
+symbol * in row 84
+position 35 in row 84
+$gear_ratio_numbers: 991, 541
+symbol * in row 84
+position 49 in row 84
+$gear_ratio_numbers: 782, 488
+symbol * in row 84
+position 129 in row 84
+$gear_ratio_numbers: 123, 19
+symbol * in row 85
+position 23 in row 85
+$gear_ratio_numbers: 999, 620
+symbol * in row 85
+position 55 in row 85
+$gear_ratio_numbers: 134, 18
+symbol * in row 85
+position 79 in row 85
+$gear_ratio_numbers: 287, 268
+symbol % in row 85
+position 111 in row 85
+symbol * in row 85
+position 126 in row 85
+$gear_ratio_numbers: 644, 395
+symbol + in row 86
+position 4 in row 86
+symbol * in row 86
+position 42 in row 86
+$gear_ratio_numbers: 379, 667
+symbol % in row 86
+position 46 in row 86
+symbol & in row 86
+position 60 in row 86
+symbol * in row 86
+position 94 in row 86
+$gear_ratio_numbers: 208, 841
+symbol * in row 86
+position 105 in row 86
+$gear_ratio_numbers: 931, 338
+symbol * in row 87
+position 11 in row 87
+$gear_ratio_numbers: 938, 834
+symbol + in row 87
+position 22 in row 87
+symbol * in row 87
+position 71 in row 87
+$gear_ratio_numbers: 626, 287
+symbol * in row 87
+position 84 in row 87
+$gear_ratio_numbers: 418, 852
+symbol * in row 87
+position 120 in row 87
+$gear_ratio_numbers: 820, 530
+symbol * in row 88
+position 37 in row 88
+$gear_ratio_numbers: 162, 607
+symbol / in row 88
+position 67 in row 88
+symbol @ in row 88
+position 98 in row 88
+symbol * in row 88
+position 100 in row 88
+$gear_ratio_numbers: 399, 244
+symbol @ in row 88
+position 115 in row 88
+symbol * in row 88
+position 135 in row 88
+$gear_ratio_numbers: 17
+symbol = in row 89
+position 6 in row 89
+symbol & in row 89
+position 44 in row 89
+symbol % in row 89
+position 53 in row 89
+symbol - in row 89
+position 89 in row 89
+symbol * in row 89
+position 93 in row 89
+$gear_ratio_numbers: 623, 954
+symbol & in row 89
+position 108 in row 89
+symbol $ in row 89
+position 113 in row 89
+symbol * in row 90
+position 30 in row 90
+$gear_ratio_numbers: 758, 677
+symbol + in row 90
+position 75 in row 90
+symbol * in row 90
+position 80 in row 90
+$gear_ratio_numbers: 683, 952
+symbol = in row 91
+position 5 in row 91
+symbol / in row 91
+position 37 in row 91
+symbol * in row 91
+position 65 in row 91
+$gear_ratio_numbers: 197, 121
+symbol * in row 91
+position 73 in row 91
+$gear_ratio_numbers: 357, 183
+symbol @ in row 91
+position 104 in row 91
+symbol * in row 91
+position 131 in row 91
+$gear_ratio_numbers: 544, 68
+symbol / in row 92
+position 28 in row 92
+symbol + in row 92
+position 60 in row 92
+symbol * in row 92
+position 100 in row 92
+$gear_ratio_numbers: 665
+symbol * in row 93
+position 14 in row 93
+$gear_ratio_numbers: 831, 602
+symbol @ in row 93
+position 36 in row 93
+symbol * in row 93
+position 42 in row 93
+$gear_ratio_numbers: 600, 186
+symbol - in row 93
+position 49 in row 93
+symbol * in row 93
+position 87 in row 93
+$gear_ratio_numbers: 18, 11
+symbol @ in row 93
+position 90 in row 93
+symbol * in row 93
+position 119 in row 93
+$gear_ratio_numbers: 575, 243
+symbol % in row 94
+position 9 in row 94
+symbol % in row 94
+position 22 in row 94
+symbol * in row 94
+position 112 in row 94
+$gear_ratio_numbers: 17, 328
+symbol * in row 94
+position 122 in row 94
+$gear_ratio_numbers: 815, 548
+symbol * in row 95
+position 56 in row 95
+$gear_ratio_numbers: 562, 93
+symbol & in row 95
+position 95 in row 95
+symbol + in row 95
+position 100 in row 95
+symbol & in row 95
+position 126 in row 95
+symbol @ in row 95
+position 134 in row 95
+symbol @ in row 96
+position 32 in row 96
+symbol $ in row 96
+position 58 in row 96
+symbol # in row 96
+position 64 in row 96
+symbol * in row 96
+position 77 in row 96
+$gear_ratio_numbers: 280, 375
+symbol % in row 96
+position 105 in row 96
+symbol = in row 97
+position 6 in row 97
+symbol * in row 97
+position 18 in row 97
+$gear_ratio_numbers: 605, 23
+symbol % in row 97
+position 42 in row 97
+symbol * in row 97
+position 71 in row 97
+$gear_ratio_numbers: 522
+symbol - in row 97
+position 84 in row 97
+symbol * in row 97
+position 100 in row 97
+$gear_ratio_numbers: 47, 433
+symbol @ in row 97
+position 110 in row 97
+symbol / in row 98
+position 14 in row 98
+symbol = in row 98
+position 24 in row 98
+symbol = in row 98
+position 31 in row 98
+symbol * in row 98
+position 87 in row 98
+$gear_ratio_numbers: 444, 431
+symbol * in row 98
+position 127 in row 98
+$gear_ratio_numbers: 828, 372
+symbol * in row 98
+position 134 in row 98
+$gear_ratio_numbers: 468, 560
+symbol * in row 99
+position 9 in row 99
+$gear_ratio_numbers: 607, 16
+symbol * in row 99
+position 54 in row 99
+$gear_ratio_numbers: 592, 973
+symbol @ in row 99
+position 61 in row 99
+symbol % in row 99
+position 77 in row 99
+symbol * in row 99
+position 106 in row 99
+$gear_ratio_numbers: 360, 58
+symbol + in row 99
+position 113 in row 99
+symbol * in row 100
+position 70 in row 100
+$gear_ratio_numbers: 114, 913
+symbol @ in row 100
+position 81 in row 100
+symbol $ in row 100
+position 89 in row 100
+symbol * in row 100
+position 121 in row 100
+$gear_ratio_numbers: 658, 975
+symbol * in row 100
+position 137 in row 100
+$gear_ratio_numbers: 163, 247
+symbol * in row 101
+position 35 in row 101
+$gear_ratio_numbers: 329, 713
+symbol * in row 101
+position 47 in row 101
+$gear_ratio_numbers: 315, 757
+symbol % in row 101
+position 95 in row 101
+symbol * in row 101
+position 98 in row 101
+$gear_ratio_numbers: 18
+symbol & in row 101
+position 102 in row 101
+symbol & in row 101
+position 114 in row 101
+symbol + in row 102
+position 6 in row 102
+symbol & in row 102
+position 9 in row 102
+symbol * in row 102
+position 18 in row 102
+$gear_ratio_numbers: 563, 196
+symbol = in row 102
+position 44 in row 102
+symbol # in row 102
+position 52 in row 102
+symbol * in row 102
+position 57 in row 102
+$gear_ratio_numbers: 873, 47
+symbol # in row 102
+position 63 in row 102
+symbol / in row 102
+position 109 in row 102
+symbol % in row 102
+position 116 in row 102
+symbol * in row 102
+position 135 in row 102
+$gear_ratio_numbers: 676
+symbol % in row 103
+position 15 in row 103
+symbol - in row 103
+position 132 in row 103
+symbol * in row 104
+position 5 in row 104
+$gear_ratio_numbers: 665, 239
+symbol * in row 104
+position 26 in row 104
+$gear_ratio_numbers: 907, 543
+symbol * in row 104
+position 78 in row 104
+$gear_ratio_numbers: 162, 582
+symbol = in row 104
+position 130 in row 104
+symbol - in row 105
+position 18 in row 105
+symbol * in row 105
+position 37 in row 105
+$gear_ratio_numbers: 170, 17
+symbol * in row 105
+position 51 in row 105
+$gear_ratio_numbers: 222, 948
+symbol * in row 105
+position 54 in row 105
+$gear_ratio_numbers: 804
+symbol - in row 105
+position 61 in row 105
+symbol - in row 105
+position 82 in row 105
+symbol * in row 105
+position 97 in row 105
+$gear_ratio_numbers: 343, 560
+symbol / in row 105
+position 111 in row 105
+symbol * in row 106
+position 11 in row 106
+$gear_ratio_numbers: 338, 900
+symbol * in row 106
+position 22 in row 106
+$gear_ratio_numbers: 437, 686
+symbol = in row 106
+position 64 in row 106
+symbol / in row 106
+position 87 in row 106
+symbol @ in row 106
+position 107 in row 106
+symbol * in row 106
+position 119 in row 106
+$gear_ratio_numbers: 636, 278
+symbol - in row 106
+position 130 in row 106
+symbol # in row 106
+position 133 in row 106
+symbol * in row 107
+position 8 in row 107
+$gear_ratio_numbers: 630, 82
+symbol * in row 107
+position 55 in row 107
+$gear_ratio_numbers: 597, 896
+symbol + in row 107
+position 72 in row 107
+symbol & in row 107
+position 99 in row 107
+symbol $ in row 108
+position 15 in row 108
+symbol * in row 108
+position 34 in row 108
+$gear_ratio_numbers: 984, 757
+symbol * in row 108
+position 43 in row 108
+$gear_ratio_numbers: 78, 625
+symbol * in row 108
+position 88 in row 108
+$gear_ratio_numbers: 746
+symbol * in row 108
+position 136 in row 108
+$gear_ratio_numbers: 835, 871
+symbol * in row 109
+position 26 in row 109
+$gear_ratio_numbers: 905, 762
+symbol * in row 109
+position 36 in row 109
+$gear_ratio_numbers: 281, 236
+symbol - in row 109
+position 97 in row 109
+symbol * in row 109
+position 107 in row 109
+$gear_ratio_numbers: 877, 739
+symbol / in row 109
+position 110 in row 109
+symbol % in row 109
+position 119 in row 109
+symbol + in row 109
+position 126 in row 109
+symbol * in row 110
+position 6 in row 110
+$gear_ratio_numbers: 954, 712
+symbol - in row 110
+position 20 in row 110
+symbol * in row 110
+position 51 in row 110
+$gear_ratio_numbers: 527, 674
+symbol * in row 110
+position 56 in row 110
+$gear_ratio_numbers: 924, 707
+symbol * in row 110
+position 66 in row 110
+$gear_ratio_numbers: 878, 363
+symbol * in row 110
+position 78 in row 110
+$gear_ratio_numbers: 912, 811
+symbol & in row 110
+position 91 in row 110
+symbol * in row 111
+position 11 in row 111
+$gear_ratio_numbers: 977, 947
+symbol * in row 111
+position 83 in row 111
+$gear_ratio_numbers: 228, 466
+symbol * in row 111
+position 113 in row 111
+$gear_ratio_numbers: 483, 65
+symbol / in row 112
+position 40 in row 112
+symbol * in row 112
+position 51 in row 112
+$gear_ratio_numbers: 968
+symbol = in row 112
+position 69 in row 112
+symbol + in row 112
+position 80 in row 112
+symbol % in row 112
+position 117 in row 112
+symbol = in row 112
+position 125 in row 112
+symbol * in row 112
+position 131 in row 112
+$gear_ratio_numbers: 537, 952
+symbol * in row 113
+position 6 in row 113
+$gear_ratio_numbers: 460
+symbol $ in row 113
+position 29 in row 113
+symbol / in row 113
+position 36 in row 113
+symbol & in row 113
+position 72 in row 113
+symbol & in row 114
+position 8 in row 114
+symbol - in row 114
+position 75 in row 114
+symbol = in row 114
+position 108 in row 114
+symbol # in row 114
+position 121 in row 114
+symbol * in row 115
+position 19 in row 115
+$gear_ratio_numbers: 793, 367
+symbol - in row 115
+position 23 in row 115
+symbol * in row 115
+position 31 in row 115
+$gear_ratio_numbers: 814
+symbol * in row 115
+position 59 in row 115
+$gear_ratio_numbers: 514
+symbol * in row 115
+position 64 in row 115
+$gear_ratio_numbers: 96
+symbol / in row 115
+position 81 in row 115
+symbol * in row 115
+position 97 in row 115
+$gear_ratio_numbers: 311, 322
+symbol @ in row 115
+position 111 in row 115
+symbol * in row 115
+position 136 in row 115
+$gear_ratio_numbers: 124, 997
+symbol * in row 116
+position 4 in row 116
+$gear_ratio_numbers: 975, 488
+symbol @ in row 116
+position 37 in row 116
+symbol * in row 116
+position 54 in row 116
+$gear_ratio_numbers: 716, 529
+symbol % in row 116
+position 95 in row 116
+symbol - in row 116
+position 101 in row 116
+symbol - in row 116
+position 119 in row 116
+symbol * in row 117
+position 43 in row 117
+$gear_ratio_numbers: 992, 187
+symbol / in row 117
+position 49 in row 117
+symbol * in row 117
+position 88 in row 117
+$gear_ratio_numbers: 329, 688
+symbol % in row 117
+position 129 in row 117
+symbol * in row 118
+position 35 in row 118
+$gear_ratio_numbers: 632, 627
+symbol - in row 118
+position 66 in row 118
+symbol * in row 118
+position 71 in row 118
+$gear_ratio_numbers: 387, 376
+symbol @ in row 118
+position 115 in row 118
+symbol * in row 119
+position 11 in row 119
+$gear_ratio_numbers: 861, 527
+symbol $ in row 119
+position 17 in row 119
+symbol * in row 119
+position 23 in row 119
+$gear_ratio_numbers: 778, 403
+symbol * in row 119
+position 26 in row 119
+$gear_ratio_numbers: 165
+symbol * in row 119
+position 79 in row 119
+$gear_ratio_numbers: 873, 897
+symbol + in row 119
+position 95 in row 119
+symbol * in row 119
+position 129 in row 119
+$gear_ratio_numbers: 750, 910
+symbol - in row 119
+position 135 in row 119
+symbol + in row 120
+position 37 in row 120
+symbol + in row 120
+position 61 in row 120
+symbol * in row 120
+position 72 in row 120
+$gear_ratio_numbers: 845, 653
+symbol $ in row 120
+position 103 in row 120
+symbol * in row 121
+position 41 in row 121
+$gear_ratio_numbers: 342, 401
+symbol = in row 121
+position 111 in row 121
+symbol * in row 121
+position 130 in row 121
+$gear_ratio_numbers: 52, 485
+symbol & in row 122
+position 5 in row 122
+symbol * in row 122
+position 30 in row 122
+$gear_ratio_numbers: 40, 944
+symbol $ in row 122
+position 39 in row 122
+symbol * in row 122
+position 50 in row 122
+$gear_ratio_numbers: 494, 763
+symbol * in row 122
+position 68 in row 122
+$gear_ratio_numbers: 892, 62
+symbol $ in row 122
+position 88 in row 122
+symbol * in row 123
+position 17 in row 123
+$gear_ratio_numbers: 827, 934
+symbol * in row 123
+position 27 in row 123
+$gear_ratio_numbers: 296, 705
+symbol / in row 123
+position 59 in row 123
+symbol = in row 123
+position 83 in row 123
+symbol * in row 123
+position 106 in row 123
+$gear_ratio_numbers: 164, 950
+symbol + in row 123
+position 136 in row 123
+symbol * in row 124
+position 11 in row 124
+$gear_ratio_numbers: 50, 209
+symbol * in row 124
+position 78 in row 124
+$gear_ratio_numbers: 113, 242
+symbol - in row 124
+position 104 in row 124
+symbol * in row 124
+position 123 in row 124
+$gear_ratio_numbers: 131, 313
+symbol & in row 125
+position 51 in row 125
+symbol * in row 126
+position 7 in row 126
+$gear_ratio_numbers: 837
+symbol # in row 126
+position 26 in row 126
+symbol / in row 126
+position 34 in row 126
+symbol @ in row 126
+position 43 in row 126
+symbol * in row 126
+position 72 in row 126
+$gear_ratio_numbers: 276, 535
+symbol * in row 126
+position 94 in row 126
+$gear_ratio_numbers: 723, 652
+symbol * in row 127
+position 15 in row 127
+$gear_ratio_numbers: 606, 168
+symbol * in row 127
+position 31 in row 127
+$gear_ratio_numbers: 2, 593
+symbol * in row 127
+position 48 in row 127
+$gear_ratio_numbers: 416, 504
+symbol - in row 127
+position 61 in row 127
+symbol % in row 127
+position 69 in row 127
+symbol / in row 127
+position 83 in row 127
+symbol - in row 127
+position 89 in row 127
+symbol # in row 127
+position 108 in row 127
+symbol * in row 127
+position 111 in row 127
+$gear_ratio_numbers: 112, 458
+symbol + in row 127
+position 119 in row 127
+symbol * in row 127
+position 124 in row 127
+$gear_ratio_numbers: 704, 872
+symbol / in row 127
+position 132 in row 127
+symbol / in row 128
+position 55 in row 128
+symbol = in row 128
+position 97 in row 128
+symbol * in row 128
+position 127 in row 128
+$gear_ratio_numbers: 723, 40
+symbol # in row 129
+position 4 in row 129
+symbol & in row 129
+position 26 in row 129
+symbol / in row 129
+position 36 in row 129
+symbol = in row 129
+position 85 in row 129
+symbol * in row 130
+position 45 in row 130
+$gear_ratio_numbers: 87, 826
+symbol * in row 130
+position 68 in row 130
+$gear_ratio_numbers: 315, 919
+symbol * in row 130
+position 75 in row 130
+$gear_ratio_numbers: 872, 118
+symbol * in row 130
+position 89 in row 130
+$gear_ratio_numbers: 494, 109
+symbol * in row 130
+position 101 in row 130
+$gear_ratio_numbers: 466, 933
+symbol * in row 130
+position 107 in row 130
+$gear_ratio_numbers: 428, 643
+symbol * in row 131
+position 4 in row 131
+$gear_ratio_numbers: 918, 949
+symbol & in row 131
+position 11 in row 131
+symbol @ in row 131
+position 13 in row 131
+symbol * in row 131
+position 22 in row 131
+$gear_ratio_numbers: 648, 111
+symbol / in row 131
+position 60 in row 131
+symbol * in row 131
+position 64 in row 131
+$gear_ratio_numbers: 227, 943
+symbol & in row 131
+position 119 in row 131
+symbol - in row 131
+position 134 in row 131
+symbol % in row 132
+position 25 in row 132
+symbol * in row 132
+position 32 in row 132
+$gear_ratio_numbers: 269, 974
+symbol % in row 132
+position 36 in row 132
+symbol / in row 132
+position 77 in row 132
+symbol % in row 133
+position 27 in row 133
+symbol * in row 133
+position 40 in row 133
+$gear_ratio_numbers: 407, 469
+symbol * in row 133
+position 56 in row 133
+$gear_ratio_numbers: 710, 997
+symbol / in row 133
+position 84 in row 133
+symbol @ in row 133
+position 104 in row 133
+symbol * in row 133
+position 115 in row 133
+$gear_ratio_numbers: 842, 477
+symbol + in row 133
+position 127 in row 133
+symbol & in row 134
+position 48 in row 134
+symbol # in row 134
+position 52 in row 134
+symbol * in row 134
+position 92 in row 134
+$gear_ratio_numbers: 848, 29
+symbol / in row 134
+position 100 in row 134
+symbol / in row 134
+position 122 in row 134
+symbol * in row 135
+position 10 in row 135
+$gear_ratio_numbers: 176, 747
+symbol - in row 135
+position 75 in row 135
+symbol - in row 135
+position 120 in row 135
+symbol * in row 135
+position 137 in row 135
+$gear_ratio_numbers: 718, 265
+symbol # in row 136
+position 21 in row 136
+symbol * in row 136
+position 29 in row 136
+$gear_ratio_numbers: 291, 593
+symbol + in row 136
+position 35 in row 136
+symbol * in row 136
+position 59 in row 136
+$gear_ratio_numbers: 741, 762
+symbol + in row 136
+position 80 in row 136
+symbol * in row 136
+position 85 in row 136
+$gear_ratio_numbers: 735, 34
+symbol * in row 136
+position 89 in row 136
+$gear_ratio_numbers: 2, 943
+symbol - in row 136
+position 102 in row 136
+symbol * in row 136
+position 107 in row 136
+$gear_ratio_numbers: 841
+symbol + in row 136
+position 117 in row 136
+symbol * in row 136
+position 130 in row 136
+$gear_ratio_numbers: 601, 616
+symbol * in row 137
+position 4 in row 137
+$gear_ratio_numbers: 298, 889
+symbol # in row 137
+position 52 in row 137
+symbol % in row 137
+position 65 in row 137
+symbol $ in row 137
+position 70 in row 137
+symbol * in row 138
+position 46 in row 138
+$gear_ratio_numbers: 298, 453
+symbol / in row 138
+position 72 in row 138
+symbol * in row 138
+position 111 in row 138
+$gear_ratio_numbers: 726, 790
+symbol * in row 138
+position 125 in row 138
+$gear_ratio_numbers: 702, 445
+symbol / in row 139
+position 21 in row 139
+symbol * in row 139
+position 39 in row 139
+$gear_ratio_numbers: 750, 681
+symbol * in row 139
+position 60 in row 139
+$gear_ratio_numbers: 637
+symbol @ in row 139
+position 79 in row 139
+symbol / in row 139
+position 99 in row 139
+symbol * in row 139
+position 103 in row 139
+$gear_ratio_numbers: 780, 964
+symbol * in row 139
+position 118 in row 139
+$gear_ratio_numbers: 233, 426
+symbol / in row 139
+position 135 in row 139
